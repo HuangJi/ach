@@ -9,7 +9,8 @@
   "author": "wilsonhuang, boolafish",
   "license": "ISC",
   "dependencies": {
-    "fast-csv": "^2.3.0",
+    "csv-parser": "^1.11.0",
+    "moment": "^2.15.1",
     "mongodb": "^2.2.10"
   }
 }
